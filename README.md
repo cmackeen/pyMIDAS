@@ -63,7 +63,7 @@ anomaly_scores = midas(
 )
 ```
 
-For more examples, refer to [examples](https://github.com/ritesh99rakesh/pyMIDAS/tree/master/example) folder of this repository.
+For more examples, refer to [examples](https://github.com/ritesh99rakesh/pyMIDAS/tree/master/examples) folder of this repository.
 
 ## Datasets
 
